@@ -1,0 +1,13 @@
+.idea
+.idea/*
+.idea/
+lib
+lib/*
+bin
+bin/*
+include
+include/*
+.Python
+local
+local/*
+pip-selfcheck.json
